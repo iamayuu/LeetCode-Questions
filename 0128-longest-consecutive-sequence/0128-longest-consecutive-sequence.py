@@ -28,12 +28,11 @@ class Solution:
         max_length = 1
         for num in my_set: 
             if num-1 not in my_set:
-                for i in range(1,len(my_set)):
-                    if num+i in my_set:
-                        if i+1>=max_length:
-                            max_length =i+1
-                    else:
-                        break
+                i=1
+                while num+i in my_set:
+                    if i+1>max_length:
+                        max_length =i+1
+                    i+=1
         
         return max_length
 
