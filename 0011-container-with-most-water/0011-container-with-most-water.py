@@ -11,4 +11,7 @@ class Solution:
                 left+=1
             else:
                 right-=1
+
+            if max_water > (right-left)*max(height):
+                break
         return max_water
