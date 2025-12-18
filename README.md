@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/iamayuu/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/iamayuu/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/iamayuu/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
