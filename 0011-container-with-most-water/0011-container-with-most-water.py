@@ -3,6 +3,7 @@ class Solution:
         left = 0
         right = len(height)-1
         max_water = 0
+        max_height = max(height)
         while left<right:
             water_stored = (right-left)*min(height[left],height[right])
             if water_stored>max_water:
@@ -12,6 +13,6 @@ class Solution:
             else:
                 right-=1
 
-            if max_water > (right-left)*max(height):
+            if max_water > (right-left)*max_height:
                 break
         return max_water
