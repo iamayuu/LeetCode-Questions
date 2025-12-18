@@ -30,9 +30,8 @@ class Solution:
             if num-1 not in my_set:
                 i=1
                 while num+i in my_set:
-                    if i+1>max_length:
-                        max_length =i+1
                     i+=1
+                max_length=max(i,max_length)
         
         return max_length
 
