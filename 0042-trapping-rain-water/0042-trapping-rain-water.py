@@ -40,12 +40,11 @@ class Solution:
         while left<right:
             left_max = max(left_max, height[left])
             right_max = max(right_max, height[right])
-
-            if left_max<right_max:
-                result = result+max(0, left_max-height[left])
+            if left_max<=right_max:
+                result += left_max-height[left]
                 left+=1
             else:
-                result = result+max(0, right_max-height[right])
+                result += right_max-height[right]
                 right-=1
         return result
 
