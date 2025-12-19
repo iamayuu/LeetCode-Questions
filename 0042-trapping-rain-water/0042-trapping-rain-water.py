@@ -1,6 +1,9 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        #Solution 1 - Array pre processing
         len_height = len(height)
+        if len_height<3:
+            return 0
         left_max = [0]*len_height
         right_max = [0]*len_height
 
