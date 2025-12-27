@@ -9,6 +9,13 @@ class Solution:
         #     nums[:]=[temp]+nums[:len(nums)-1]
 
         #Solution 2 (normalizing the k and slicing it)
+        # if k>len(nums):
+        #     k=k%len(nums)
+        # nums[:]=nums[len(nums)-k:]+nums[:len(nums)-k]
+
+        #Solution3 (Reversing the array)
         if k>len(nums):
-            k=k%len(nums)
-        nums[:]=nums[len(nums)-k:]+nums[:len(nums)-k]
+            k=k%len(nums)        
+        nums.reverse()
+        nums[:]=nums[k-1::-1]+nums[-1:k-1:-1]
+
