@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/iamayuu/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamayuu/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/iamayuu/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/iamayuu/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamayuu/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/iamayuu/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamayuu/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
