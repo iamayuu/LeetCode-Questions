@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/iamayuu/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/iamayuu/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/iamayuu/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/iamayuu/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamayuu/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/iamayuu/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/iamayuu/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamayuu/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/iamayuu/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iamayuu/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamayuu/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
