@@ -3,6 +3,29 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        #Solution1
-        nums1[:]=nums1[:m]+nums2
-        nums1.sort()
+        #Solution1 (Using Slicing and sorting)
+        # nums1[:]=nums1[:m]+nums2
+        # nums1.sort()
+
+        #Solution2
+        m,n = m-1,n-1 #using the given length as index
+        last = len(nums1)-1
+        while m>=0 and n>=0:
+            if nums1[m]>nums2[n]:
+                nums1[last]=nums1[m]
+                m-=1
+            else:
+                nums1[last]=nums2[n]
+                n-=1
+            last-=1
+        if m<0:
+            for i in range(n+1):
+                nums1[i]=nums2[i]
+
+
+
+
+            
+            
+
+
