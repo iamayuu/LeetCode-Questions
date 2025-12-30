@@ -38,7 +38,6 @@ class Solution:
 
         #Solution2 (Using Binary Search) 
         #Getting the smaller array into nums1
-        import sys
         if len(nums1)>len(nums2):
             nums1, nums2 = nums2, nums1
         n1, n2 = len(nums1), len(nums2)
