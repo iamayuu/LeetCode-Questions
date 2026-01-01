@@ -10,26 +10,40 @@ class Solution:
         #             total_subarray+=1
         # return total_subarray
 
-        #Solution2 (Optimal)
+        #Solution2 (Optimal Time)
+        # total_subarray = 0
+
+        # #Array Pre-Processing
+        # prefix_sum = []
+        # curr_sum=0
+        # for n in nums:
+        #     curr_sum+=n
+        #     prefix_sum.append(curr_sum)
+        # counter = {}
+        # #Finding subarray with sum k and calculating counters
+        # for curr_psum in prefix_sum:
+        #     if curr_psum-k==0:
+        #         total_subarray+=1
+        #     if curr_psum-k in counter:
+        #         total_subarray+=counter[curr_psum-k]
+        #     if curr_psum in counter:
+        #         counter[curr_psum]+=1
+        #     else:
+        #         counter[curr_psum]=1
+
+        # return total_subarray
+
+        #Solution3 (Optiomal Time and Space)
+        hashMap = {} #For storing counter
+        hashMap[0]=1 #Adding for running_sum-k==0 condition
+        running_sum = 0
         total_subarray = 0
-
-        #Array Pre-Processing
-        prefix_sum = []
-        curr_sum=0
         for n in nums:
-            curr_sum+=n
-            prefix_sum.append(curr_sum)
-        
-        counter = {}
-        #Finding subarray with sum k and calculating counters
-        for curr_psum in prefix_sum:
-            if curr_psum-k==0:
-                total_subarray+=1
-            if curr_psum-k in counter:
-                total_subarray+=counter[curr_psum-k]
-            if curr_psum in counter:
-                counter[curr_psum]+=1
+            running_sum+=n
+            if running_sum-k in hashMap:
+                total_subarray+=hashMap[running_sum-k]
+            if running_sum in hashMap:
+                hashMap[running_sum]+=1
             else:
-                counter[curr_psum]=1
-
+                hashMap[running_sum]=1
         return total_subarray
