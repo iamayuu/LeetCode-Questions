@@ -13,16 +13,29 @@ class Solution:
         # return max_len
 
         #Solution2 (Using 2 Pointers Sliding Window)
-        max_len=0
-        l, r = 0, 0
-        HashMap = {} #To Store letter and their last index
-        while r< len(s):
-            if s[r] not in HashMap or HashMap[s[r]]<l:
-                HashMap[s[r]]=r
-                length = r-l+1
-                max_len=max(max_len, length)
+        # max_len=0
+        # l, r = 0, 0
+        # HashMap = {} #To Store letter and their last index
+        # while r< len(s):
+        #     if s[r] not in HashMap or HashMap[s[r]]<l:
+        #         HashMap[s[r]]=r
+        #         length = r-l+1
+        #         max_len=max(max_len, length)
+        #     else:
+        #         l = HashMap[s[r]]+1
+        #         HashMap[s[r]]=r
+        #     r+=1
+        # return max_len
+
+        #Solution3 (Using Sliding window and index for substring reset)
+        max_len = 0
+        substr = ""
+        for letter in s:
+            if letter not in substr:
+                substr+=letter
+                max_len=max(max_len, len(substr))
             else:
-                l = HashMap[s[r]]+1
-                HashMap[s[r]]=r
-            r+=1
+                #If duplicate, finding the last occurance of duplicate and making substring after it
+                last_index = substr.index(letter)
+                substr = substr[last_index+1:]+letter
         return max_len
