@@ -16,9 +16,8 @@ class Solution:
                     HashMap[s[r]] -= 1
                 else:
                     HashMap[s[r]] = -1
-                r += 1
             while count == n:
-                length = r - l
+                length = r - l+1
                 if length < min_len:
                     min_len = length
                     start_idx = l
@@ -26,4 +25,5 @@ class Solution:
                 if HashMap[s[l]] > 0:
                     count -= 1
                 l += 1
+            r += 1
         return s[start_idx : start_idx + min_len] if start_idx > -1 else ""
