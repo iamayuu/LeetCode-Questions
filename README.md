@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamayuu/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/iamayuu/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/iamayuu/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/iamayuu/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamayuu/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamayuu/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/iamayuu/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/iamayuu/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/iamayuu/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/iamayuu/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/iamayuu/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 ## String Matching
