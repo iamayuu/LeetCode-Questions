@@ -179,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/iamayuu/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamayuu/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
