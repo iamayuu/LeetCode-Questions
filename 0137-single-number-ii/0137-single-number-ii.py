@@ -16,3 +16,11 @@ class Solution:
         #     if count%3==1:
         #         ans = ans | (1<<i)
         # return ans if ans<2**31 else ans-2**32
+
+        #Solution3 (Using Sorting and checking for middle of group number)
+        # nums.sort()
+        # n=len(nums)
+        # for i in range(1,n,3):
+        #     if nums[i]!=nums[i-1]:
+        #         return nums[i-1]
+        # return nums[-1]
