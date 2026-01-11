@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iamayuu/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/iamayuu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
