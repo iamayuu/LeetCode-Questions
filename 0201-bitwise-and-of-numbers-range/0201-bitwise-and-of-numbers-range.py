@@ -8,8 +8,10 @@ class Solution:
         # return total
 
         #Solution2 (Optimised)
+        if left==0:
+            return 0
         zeroes_lost = 0
-        while left!=right:
+        while left<right:
             left = left>>1
             right = right>>1
             zeroes_lost+=1
