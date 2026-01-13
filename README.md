@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
 | [2058-concatenation-of-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3763-separate-squares-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3763-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3763-separate-squares-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3763-separate-squares-i) |
 ## Sorting
 |  |
 | ------- |
