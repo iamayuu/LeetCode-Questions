@@ -1,27 +1,28 @@
 class Solution:
     def separateSquares(self, squares: List[List[int]]) -> float:
-        total_area = 0        
-        for x, y, l in squares:
-            total_area += l * l
-            
-        events = []
-        for x, y, l in squares:
-            events.append((y, 1, l))
-            events.append((y + l, 0, l))
-        events.sort()
-        opened = 0
-        curr_area = 0
-        prev_y = None
-        for y, action, l in events:
-            if prev_y != None:
-                curr_area += opened * (y - prev_y)
-            surplus = curr_area - total_area / 2
-            if surplus == 0:
-                return y
-            if surplus > 0:
-                return y - surplus / opened
-            if action == 1:
-                opened += l
+        #Finding min_y, max_y and total area
+        min_y = float("inf")
+        max_y = float("-inf")
+        totalArea = 0
+        for x,y,l in squares:
+            min_y = min(min_y, y)
+            max_y = max(max_y, y+l)
+            totalArea += (l*l)
+        # print(f"min_y: {min_y}, max_y: {max_y}, totalArea: {totalArea}")
+        
+        low, high = min_y, max_y
+        while high-low> 1e-5:
+            mid_y = low+((high-low)/2)
+            #Finding area below mid_y line
+            bottomArea = 0
+            for x,y,l in squares:
+                if mid_y >= (y+l):
+                    bottomArea += (l*l)
+                elif mid_y > y:
+                    bottomArea += (l*(mid_y-y))
+            if bottomArea >= (totalArea/2):
+                high = mid_y
             else:
-                opened -= l
-            prev_y = y
+                low = mid_y
+        
+        return low+((high-low)/2)
