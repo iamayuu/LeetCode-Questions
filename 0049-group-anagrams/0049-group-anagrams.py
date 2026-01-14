@@ -1,16 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        
-        ans = []
-        dictHashMap = {}
-        
-        for word in strs:
-            if "".join(sorted(word)) in dictHashMap:
-                ans[dictHashMap["".join(sorted(word))]].append(word)
+        #Solution1 (Brute Force)
+        hmap = {}
+        for s in strs:
+            key = "".join(sorted(s))
+            if key in hmap:
+                hmap[key].append(s)
             else:
-                ans.append([word])
-                dictHashMap["".join(sorted(word))] = len(ans)-1
+                hmap[key] = [s]
 
-        return ans
-
-        
+        return [x for x in hmap.values()]
