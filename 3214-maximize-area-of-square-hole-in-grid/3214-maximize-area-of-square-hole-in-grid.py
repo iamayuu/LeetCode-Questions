@@ -17,4 +17,4 @@ class Solution:
             else:
                 crr_maxSubseq=1
             maxSubseqV = max(maxSubseqV, crr_maxSubseq)
-        return (min(maxSubseqH+1, maxSubseqV+1))**2
+        return (min(maxSubseqH, maxSubseqV)+1)**2
