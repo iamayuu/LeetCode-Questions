@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/iamayuu/LeetCode-Questions/tree/master/0393-utf-8-validation) |
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0792-binary-search) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamayuu/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0792-binary-search) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3763-separate-squares-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3775-separate-squares-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iamayuu/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 ## Union Find
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamayuu/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 ## Recursion
 |  |
