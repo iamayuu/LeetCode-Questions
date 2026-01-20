@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3763-separate-squares-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3775-separate-squares-ii) |
 ## Hash Table
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/iamayuu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/iamayuu/LeetCode-Questions/tree/master/0393-utf-8-validation) |
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Matrix
 |  |
 | ------- |
