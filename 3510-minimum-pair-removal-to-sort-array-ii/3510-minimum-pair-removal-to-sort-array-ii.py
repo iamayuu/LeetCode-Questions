@@ -18,65 +18,59 @@ class Solution:
         #Solution2
         n = len(nums)
 
-        temp = [int(x) for x in nums]
-
         nextIndex = [i + 1 for i in range(n)]
         prevIndex = [i - 1 for i in range(n)]
-
         alive = [True] * n
 
         heap = []
-
         badPairs = 0
+
         for i in range(n - 1):
-            if temp[i] > temp[i + 1]:
+            if nums[i] > nums[i + 1]:
                 badPairs += 1
-            heapq.heappush(heap, (temp[i] + temp[i + 1], i))
+            heapq.heappush(heap, (nums[i] + nums[i + 1], i))
 
         operations = 0
 
         while badPairs > 0:
-            # get valid minimum pair
+            # extract valid minimum pair
             while True:
                 pair_sum, first = heapq.heappop(heap)
                 if alive[first] and nextIndex[first] < n:
                     second = nextIndex[first]
-                    if alive[second] and pair_sum == temp[first] + temp[second]:
+                    if alive[second] and pair_sum == nums[first] + nums[second]:
                         break
 
             second = nextIndex[first]
-            first_left = prevIndex[first]
-            second_right = nextIndex[second]
+            left = prevIndex[first]
+            right = nextIndex[second]
 
-            if temp[first] > temp[second]:
+            if nums[first] > nums[second]:
                 badPairs -= 1
 
-            if first_left >= 0:
-                if temp[first_left] > temp[first] and temp[first_left] <= temp[first] + temp[second]:
+            if left >= 0:
+                if nums[left] > nums[first] and nums[left] <= nums[first] + nums[second]:
                     badPairs -= 1
-                elif temp[first_left] <= temp[first] and temp[first_left] > temp[first] + temp[second]:
+                elif nums[left] <= nums[first] and nums[left] > nums[first] + nums[second]:
                     badPairs += 1
 
-            if second_right < n:
-                if temp[second_right] >= temp[second] and temp[second_right] < temp[first] + temp[second]:
+            if right < n:
+                if nums[right] >= nums[second] and nums[right] < nums[first] + nums[second]:
                     badPairs += 1
-                elif temp[second_right] < temp[second] and temp[second_right] >= temp[first] + temp[second]:
+                elif nums[right] < nums[second] and nums[right] >= nums[first] + nums[second]:
                     badPairs -= 1
 
-            if first_left >= 0:
-                heapq.heappush(heap, (temp[first_left] + temp[first] + temp[second], first_left))
+            if left >= 0:
+                heapq.heappush(heap, (nums[left] + nums[first] + nums[second], left))
 
-            if second_right < n:
-                heapq.heappush(heap, (temp[first] + temp[second] + temp[second_right], first))
-                prevIndex[second_right] = first
+            if right < n:
+                heapq.heappush(heap, (nums[first] + nums[second] + nums[right], first))
+                prevIndex[right] = first
 
-            nextIndex[first] = second_right
-            temp[first] += temp[second]
-
+            nextIndex[first] = right
+            nums[first] += nums[second]
             alive[second] = False
 
             operations += 1
 
         return operations
-
-        
