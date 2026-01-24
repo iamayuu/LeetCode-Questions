@@ -53,17 +53,13 @@ class Solution:
                     badPairs -= 1
                 elif nums[left] <= nums[first] and nums[left] > nums[first] + nums[second]:
                     badPairs += 1
+                heapq.heappush(heap, (nums[left] + nums[first] + nums[second], left))
 
             if right < n:
                 if nums[right] >= nums[second] and nums[right] < nums[first] + nums[second]:
                     badPairs += 1
                 elif nums[right] < nums[second] and nums[right] >= nums[first] + nums[second]:
                     badPairs -= 1
-
-            if left >= 0:
-                heapq.heappush(heap, (nums[left] + nums[first] + nums[second], left))
-
-            if right < n:
                 heapq.heappush(heap, (nums[first] + nums[second] + nums[right], first))
                 prevIndex[right] = first
 
