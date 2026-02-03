@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [2058-concatenation-of-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iamayuu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 ## Sliding Window
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/iamayuu/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
