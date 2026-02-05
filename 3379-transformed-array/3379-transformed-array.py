@@ -11,8 +11,12 @@ class Solution:
         # return result
 
         #Solution2
-        result = []
+        # result = []
+        # n = len(nums)
+        # for i in range(n):
+        #     result.append(nums[(i+nums[i])%n])
+        # return result
+
+        #Solution 3
         n = len(nums)
-        for i in range(n):
-            result.append(nums[(i+nums[i])%n])
-        return result
+        return [nums[(i+nums[i])%n] for i in range(n)]
