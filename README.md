@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -110,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3634-minimum-removals-to-balance-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamayuu/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/iamayuu/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
