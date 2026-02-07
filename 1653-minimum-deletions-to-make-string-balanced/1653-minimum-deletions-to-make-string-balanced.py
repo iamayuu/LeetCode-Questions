@@ -57,20 +57,32 @@ class Solution:
         # return ans
 
         #Soltuion 4 (More Optimized Space Solution 3 and Solution 1)
-        n = len(s)
-        #Array preprocessing - count how many total a in the string
-        a_count = 0
-        for i in range(n-1, -1, -1):
-            if s[i] == 'a':
-                a_count+=1
+        # n = len(s)
+        # #Array preprocessing - count how many total a in the string
+        # a_count = 0
+        # for i in range(n-1, -1, -1):
+        #     if s[i] == 'a':
+        #         a_count+=1
         
-        ans = float("inf")
-        b_count=0
-        for i in range(n):
-            if s[i]=='a':
-                a_count -= 1
-            ans = min(ans,a_count+b_count)
-            if s[i]=='b':
-                b_count+=1
+        # ans = float("inf")
+        # b_count=0
+        # for i in range(n):
+        #     if s[i]=='a':
+        #         a_count -= 1
+        #     ans = min(ans,a_count+b_count)
+        #     if s[i]=='b':
+        #         b_count+=1
+        # return ans
 
-        return ans        
+        #Solution 5 (Optimized Solution 2)
+        ans = 0
+        count = 0
+        n = len(s)
+        for i in range(n):
+            if s[i]=='b':
+                count+=1
+            if s[i]=='a':
+                if count>0:
+                    ans +=1
+                    count-=1
+        return ans
