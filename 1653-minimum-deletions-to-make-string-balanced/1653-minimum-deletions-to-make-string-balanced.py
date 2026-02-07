@@ -37,21 +37,40 @@ class Solution:
         #         stack.append('b')
         # return count
 
-        #Solution3 (Optimised Solution 1)
+        #Solution3 (Optimised Space of Solution 1)
+        # n = len(s)
+        # #Array preprocessing - count how many a to right of an index 
+        # a_right = [0]*n
+        # a_count = 0
+        # for i in range(n-1, -1, -1):
+        #     a_right[i] = a_count
+        #     if s[i] == 'a':
+        #         a_count+=1
+        
+        # ans = float("inf")
+        # b_count=0
+        # for i in range(n):
+        #     ans = min(ans,a_right[i]+b_count)
+        #     if s[i]=='b':
+        #         b_count+=1
+        
+        # return ans
+
+        #Soltuion 4 (More Optimized Space Solution 3 and Solution 1)
         n = len(s)
-        #Array preprocessing - count how many a to right of an index and how many B to left of index
-        a_right = [0]*n
+        #Array preprocessing - count how many total a in the string
         a_count = 0
         for i in range(n-1, -1, -1):
-            a_right[i] = a_count
             if s[i] == 'a':
                 a_count+=1
         
         ans = float("inf")
         b_count=0
         for i in range(n):
-            ans = min(ans,a_right[i]+b_count)
+            if s[i]=='a':
+                a_count -= 1
+            ans = min(ans,a_count+b_count)
             if s[i]=='b':
                 b_count+=1
-        
-        return ans
+
+        return ans        
