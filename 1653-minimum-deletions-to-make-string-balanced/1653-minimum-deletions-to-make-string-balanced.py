@@ -1,13 +1,23 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        res = 0
-        b = 0
+        #Solution1 (Brute Force)
+        n = len(s)
+        #Array preprocessing - count how many a to right of an index and how many B to left of index
+        a_right = [0]*n
+        a_count = 0
+        for i in range(n-1, -1, -1):
+            a_right[i] = a_count
+            if s[i] == 'a':
+                a_count+=1
 
-        for c in s:
-            if c == 'b':
-                b += 1
-            elif b:
-                res += 1
-                b -= 1
+        b_left = [0]*n
+        b_count = 0
+        for i in range(n):
+            b_left[i] = b_count
+            if s[i] == 'b':
+                b_count+=1
 
-        return res
+        ans = float("inf")
+        for i in range(n):
+            ans = min(ans, a_right[i]+ b_left[i])
+        return ans
