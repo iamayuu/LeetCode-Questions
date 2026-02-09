@@ -149,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/iamayuu/LeetCode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamayuu/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
