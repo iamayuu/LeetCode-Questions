@@ -17,7 +17,7 @@ class Solution:
         for i in range(n):
             counter = [0]*27
             for j in range(i,n):
-                counter[ord(s[j])-97]+=1
+                counter[ord(s[j])-ord('a')-1]+=1
                 if len(set(counter))==2:
                     ans=max(ans, j-i+1)
         return ans                
