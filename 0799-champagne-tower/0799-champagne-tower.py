@@ -1,31 +1,31 @@
+def total_champagne(poured, i, j, memo):
+
+    if i < 0 or j < 0 or i < j:
+        return 0.0
+
+    if memo[i][j] != -1:
+        return memo[i][j]
+
+    if i == 0 and j == 0:
+        memo[i][j] = poured
+        return poured
+
+    up_left = (total_champagne(poured, i - 1, j - 1, memo) - 1) / 2
+    up_right = (total_champagne(poured, i - 1, j, memo) - 1) / 2
+
+    if up_left < 0:
+        up_left = 0
+    if up_right < 0:
+        up_right = 0
+
+    memo[i][j] = up_left + up_right
+    return memo[i][j]
+
+
 class Solution:
     def champagneTower(self, poured: int, query_row: int, query_glass: int) -> float:
-        # We start with all the liquid in the single glass at the top (row 0)
-        currentRow = [float(poured)]
         
-        for r in range(query_row + 1):
-            # The next row always has one more glass than the current row
-            nextRow = [0.0] * (r + 2)
-            anyOverflow = False
-
-            for c in range(r + 1):
-                # If the glass has more than 1 unit, it overflows
-                if currentRow[c] > 1.0:
-                    excess = currentRow[c] - 1.0
-                    splitFlow = excess / 2.0
-                    
-                    nextRow[c] += splitFlow
-                    nextRow[c + 1] += splitFlow
-                    
-                    currentRow[c] = 1.0  # The glass remains full
-                    anyOverflow = True
-            
-            # Optimization: If no glass in this row overflowed,
-            # rows below will stay empty.
-            if not anyOverflow and r < query_row:
-                return currentRow[query_glass] if r == query_row else 0.0
-
-            if r != query_row:
-                currentRow = nextRow
+        memo = [[-1 for _ in range(query_row + 1)] 
+                for _ in range(query_row + 1)]
         
-        return currentRow[query_glass]
+        return min(1.0, total_champagne(poured, query_row, query_glass, memo))
