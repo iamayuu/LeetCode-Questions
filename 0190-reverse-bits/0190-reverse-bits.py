@@ -1,5 +1,6 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
+        #Brute Force
         binary = ""
         while n>0:
             bit = n%2
@@ -13,3 +14,6 @@ class Solution:
             res+= int(bit)*offset
             offset*=2
         return res
+
+        #Optimized
+        
