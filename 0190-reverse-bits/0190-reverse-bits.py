@@ -15,12 +15,20 @@ class Solution:
         #     offset*=2
         # return res
 
-        #Optimized
+        #using bit manipulation
+        # res = 0
+        # for i in range(32):
+        #     check_bit = n&(1<<i)
+        #     if check_bit:
+        #         res = res|(1<<(31-i))
+        #     else:
+        #         res=res&~(1<<(31-i))
+        # return res
+        
+        #More optimised binary
         res = 0
         for i in range(32):
-            check_bit = n&(1<<i)
-            if check_bit:
-                res = res|(1<<(31-i))
-            else:
-                res=res&~(1<<(31-i))
+            last_bit = n&1
+            n=n>>1
+            res = (res<<1)|last_bit
         return res
