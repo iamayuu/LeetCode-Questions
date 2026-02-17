@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/iamayuu/LeetCode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/iamayuu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/iamayuu/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0393-utf-8-validation](https://github.com/iamayuu/LeetCode-Questions/tree/master/0393-utf-8-validation) |
 | [0523-continuous-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iamayuu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/iamayuu/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/iamayuu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/iamayuu/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -369,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/iamayuu/LeetCode-Questions/tree/master/0401-binary-watch) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/iamayuu/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/iamayuu/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
