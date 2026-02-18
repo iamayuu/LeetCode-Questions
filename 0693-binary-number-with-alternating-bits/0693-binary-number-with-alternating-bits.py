@@ -10,4 +10,4 @@ class Solution:
         # return True
 
         #Solution2 (Using bit manipulation)
-        return n&(n>>1)==0 and (n^(n>>1))&((n^(n>>1))+1)==0   
+        return n&(n>>1)==0 and (n^(n>>1))&((n^(n>>1))+1)==0
