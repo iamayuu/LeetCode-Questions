@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/iamayuu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/iamayuu/LeetCode-Questions/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/iamayuu/LeetCode-Questions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
