@@ -9,5 +9,9 @@ class Solution:
         #     crr_check=n&1
         # return True
 
-        #Solution2 (Using bit manipulation)
-        return n&(n>>1)==0 and (n^(n>>1))&((n^(n>>1))+1)==0
+        #Solution2 (Using bit manipulation) 
+        and_check = (n&(n>>1)==0)
+        xor = n^(n>>1)
+        xor_check = (xor&(xor+1)==0)
+
+        return and_check and xor_check
