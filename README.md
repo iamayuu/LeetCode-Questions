@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/iamayuu/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/iamayuu/LeetCode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/iamayuu/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamayuu/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
