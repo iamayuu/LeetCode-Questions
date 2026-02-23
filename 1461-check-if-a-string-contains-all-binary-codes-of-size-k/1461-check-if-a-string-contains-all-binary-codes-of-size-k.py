@@ -1,7 +1,7 @@
 class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
         n = len(s)
-        max_bin_codes = 2**k
+        max_bin_codes = 1<<k  # max possible is 2 power k
         unique_substr = set()
         for i in range(n-k+1):
             substr = s[i:i+k]
