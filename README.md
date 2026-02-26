@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamayuu/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/iamayuu/LeetCode-Questions/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2058-concatenation-of-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamayuu/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/iamayuu/LeetCode-Questions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
