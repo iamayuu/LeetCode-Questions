@@ -1,6 +1,5 @@
 class Solution:
     def minSwaps(self, grid: List[List[int]]) -> int:
-
         n = len(grid)
         zeroes = [] #List to track the zeroes from right side in each row
         for row in grid:
@@ -11,7 +10,6 @@ class Solution:
                 else:
                     break
             zeroes.append(count_zeroes)
-        print(zeroes)
 
         #Now we will find zeroes needed for every row, and 
         #then if we get any value more then our required amount then we will have a swap
