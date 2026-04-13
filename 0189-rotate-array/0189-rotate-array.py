@@ -3,9 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        #Solution1 Brute Force
+        #Solution1 Brute Force (fast but taking space)
+        # n=len(nums)
+        # k=k%n
+        # nums1 = nums[:n-k]
+        # nums2=nums[n-k:]
+        # nums[:]=nums2+nums1
+
+        #Solution2 
         n=len(nums)
         k=k%n
-        nums1 = nums[:n-k]
-        nums2=nums[n-k:]
-        nums[:]=nums2+nums1
+        nums[:] = nums[n-k:]+nums[:n-k]
+        
