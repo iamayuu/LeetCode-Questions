@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
