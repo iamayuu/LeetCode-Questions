@@ -10,8 +10,14 @@ class Solution:
         # nums2=nums[n-k:]
         # nums[:]=nums2+nums1
 
-        #Solution2 
-        n=len(nums)
-        k=k%n
-        nums[:] = nums[n-k:]+nums[:n-k]
+        #Solution2 better space then solution 1
+        # n=len(nums)
+        # k=k%n
+        # nums[:] = nums[n-k:]+nums[:n-k]
         
+
+        #Solution3 same time best space
+        k %= len(nums)
+        nums.reverse()
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
