@@ -21,11 +21,21 @@ class Solution:
         # return ans 
 
         #Solution2
+        # ans = float("inf")
+        # n=len(words)
+        # for i in range(n):
+        #     if words[i]==target:
+        #         print(i)
+        #         print(startIndex+n-i)
+        #         ans = min(ans, abs(i-startIndex), abs(startIndex+n-i), abs(n-startIndex+i))
+        # return ans 
+
+        #Solution3 
         ans = float("inf")
         n=len(words)
         for i in range(n):
             if words[i]==target:
                 print(i)
                 print(startIndex+n-i)
-                ans = min(ans, abs(i-startIndex), abs(startIndex+n-i), abs(n-startIndex+i))
+                ans = min(ans, abs(i-startIndex), n-abs(i-startIndex))
         return ans 
