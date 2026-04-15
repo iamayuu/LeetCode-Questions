@@ -25,8 +25,6 @@ class Solution:
         # n=len(words)
         # for i in range(n):
         #     if words[i]==target:
-        #         print(i)
-        #         print(startIndex+n-i)
         #         ans = min(ans, abs(i-startIndex), abs(startIndex+n-i), abs(n-startIndex+i))
         # return ans 
 
@@ -35,7 +33,5 @@ class Solution:
         n=len(words)
         for i in range(n):
             if words[i]==target:
-                print(i)
-                print(startIndex+n-i)
                 ans = min(ans, abs(i-startIndex), n-abs(i-startIndex))
         return ans 
