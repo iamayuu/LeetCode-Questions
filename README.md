@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3379-transformed-array) |
+| [3488-closest-equal-element-queries](https://github.com/iamayuu/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
+| [3488-closest-equal-element-queries](https://github.com/iamayuu/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamayuu/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/iamayuu/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamayuu/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3763-separate-squares-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3775-separate-squares-ii) |
