@@ -23,11 +23,8 @@ class Solution:
         for i in range(n):
             num = nums[i]
             if num in hmap:
-                ans = min(ans, abs(i-hmap[num]))
-
-            rev_s=""
-            for s in str(num):
-                rev_s = s+rev_s
+                ans = min(ans, i-hmap[num])
+            rev_s=str(num)[::-1]
             rev_num=int(rev_s)
             hmap[rev_num]=i
         return -1 if ans == float("inf") else ans
