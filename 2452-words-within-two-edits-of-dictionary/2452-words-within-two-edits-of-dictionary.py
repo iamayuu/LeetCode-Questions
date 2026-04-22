@@ -22,7 +22,7 @@ class Solution:
 
         # return ans
 
-        #Solution1 Brute Force
+        #Solution2 Brute Force but tracking unmatched letters
         if len(queries[0])<=2:
             return queries
         ans = []
