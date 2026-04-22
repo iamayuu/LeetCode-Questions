@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iamayuu/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/iamayuu/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/iamayuu/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/iamayuu/LeetCode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamayuu/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/iamayuu/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3713-longest-balanced-substring-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3714-longest-balanced-substring-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamayuu/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/iamayuu/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Math
 |  |
 | ------- |
