@@ -11,8 +11,9 @@ class Solution:
             area = (right-left)*min(height[left],height[right])
             max_water=max(max_water,area)
             #special condition to save time
-            if max_water > max_len*(right-left):
+            if max_water >= max_len*(right-left):
                 return max_water
+
             if height[left]<height[right]:
                 left+=1
             else:
