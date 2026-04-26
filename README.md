@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iamayuu/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1835-decode-xored-permutation](https://github.com/iamayuu/LeetCode-Questions/tree/master/1835-decode-xored-permutation) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/iamayuu/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/iamayuu/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iamayuu/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -489,10 +492,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/iamayuu/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamayuu/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamayuu/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
