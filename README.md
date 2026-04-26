@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1922-count-good-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamayuu/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamayuu/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/iamayuu/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Geometry
 |  |
 | ------- |
