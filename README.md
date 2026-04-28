@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iamayuu/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamayuu/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/iamayuu/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1922-count-good-numbers) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamayuu/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamayuu/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Recursion
 |  |
