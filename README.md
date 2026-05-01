@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/iamayuu/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/iamayuu/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/iamayuu/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/iamayuu/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
