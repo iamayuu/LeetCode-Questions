@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamayuu/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/iamayuu/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamayuu/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamayuu/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3763-separate-squares-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3775-separate-squares-ii) |
 ## Sorting
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamayuu/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/iamayuu/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/iamayuu/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
