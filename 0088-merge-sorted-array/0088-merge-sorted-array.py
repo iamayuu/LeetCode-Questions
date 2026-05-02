@@ -4,8 +4,6 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
         l, r = 0, 0
-        n = len(nums2)
-        m = len(nums1)-n
         
         nums = []
         while r<n and l<m:
