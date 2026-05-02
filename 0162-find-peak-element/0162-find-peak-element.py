@@ -1,12 +1,13 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        start = 0
-        end = len(nums)-1
-        while start!=end:
-            mid = int((start+end)/2)
+        n = len(nums)
+        l, r = 0, n-1
+        while l<r:
+            mid = (l+r)//2
             if nums[mid]>nums[mid+1]:
-                end=mid
-            elif nums[mid]<nums[mid+1]:
-                start=mid+1
-            
-        return end
+                #that means on slope is guarentee on left side
+                r=mid
+            else:
+                l=mid+1
+        
+        return l
