@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/iamayuu/LeetCode-Questions/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamayuu/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/iamayuu/LeetCode-Questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamayuu/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/iamayuu/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/iamayuu/LeetCode-Questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1922-count-good-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/iamayuu/LeetCode-Questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
