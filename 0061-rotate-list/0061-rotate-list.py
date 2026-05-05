@@ -27,11 +27,6 @@ class Solution:
             crrNode = crrNode.next
         newtail = crrNode
         newhead = newtail.next
-        # print(f"oldhead.val: {oldhead.val}")
-        # print(f"oldtail.val: {oldtail.val}")
-        # print(f"newhead.val: {newhead.val}")
-        # print(f"newtail.val: {newtail.val}")
-
         oldtail.next = oldhead
         newtail.next = None
 
