@@ -13,7 +13,6 @@ class Solution:
                     A,B,C = points[i], points[j], points[k]
                     area = Area(A,B,C)
                     if area>maxArea:
-                        print(A,B,C,area,maxArea)
                         maxArea = area
 
         return maxArea
