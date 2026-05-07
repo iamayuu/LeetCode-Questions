@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iamayuu/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0792-binary-search) |
+| [0812-largest-triangle-area](https://github.com/iamayuu/LeetCode-Questions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamayuu/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/iamayuu/LeetCode-Questions/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/iamayuu/LeetCode-Questions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/iamayuu/LeetCode-Questions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
