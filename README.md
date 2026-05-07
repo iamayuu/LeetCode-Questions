@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamayuu/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/iamayuu/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
