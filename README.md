@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/iamayuu/LeetCode-Questions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3024-type-of-triangle](https://github.com/iamayuu/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamayuu/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -575,4 +576,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/iamayuu/LeetCode-Questions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
