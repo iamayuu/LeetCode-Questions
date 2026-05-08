@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/iamayuu/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/iamayuu/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamayuu/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/iamayuu/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/iamayuu/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/iamayuu/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/iamayuu/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/iamayuu/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamayuu/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamayuu/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/iamayuu/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/iamayuu/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0204-count-primes) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/iamayuu/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/iamayuu/LeetCode-Questions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/iamayuu/LeetCode-Questions/tree/master/1395-minimum-time-visiting-all-points) |
