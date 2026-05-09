@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamayuu/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/iamayuu/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/iamayuu/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/iamayuu/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamayuu/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/iamayuu/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/0190-reverse-bits) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/iamayuu/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/iamayuu/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 ## Design
