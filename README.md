@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iamayuu/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/iamayuu/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamayuu/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/iamayuu/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/iamayuu/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/iamayuu/LeetCode-Questions/tree/master/0788-rotated-digits) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/iamayuu/LeetCode-Questions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/iamayuu/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamayuu/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/iamayuu/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/0233-number-of-digit-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Geometry
