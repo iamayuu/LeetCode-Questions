@@ -15,4 +15,4 @@ class Solution:
                     l=m+1
                 else:
                     r=m-1
-        return (l+r)//2
+        return l
