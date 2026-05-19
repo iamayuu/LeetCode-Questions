@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamayuu/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/iamayuu/LeetCode-Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/iamayuu/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/iamayuu/LeetCode-Questions/tree/master/2615-sum-of-distances) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/iamayuu/LeetCode-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/iamayuu/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/iamayuu/LeetCode-Questions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/iamayuu/LeetCode-Questions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/iamayuu/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0792-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamayuu/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/iamayuu/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamayuu/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamayuu/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/iamayuu/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/iamayuu/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
