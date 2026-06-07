@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/iamayuu/LeetCode-Questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/iamayuu/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2714-left-and-right-sum-differences](https://github.com/iamayuu/LeetCode-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/iamayuu/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/iamayuu/LeetCode-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/iamayuu/LeetCode-Questions/tree/master/2784-check-if-array-is-good) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/iamayuu/LeetCode-Questions/tree/master/2615-sum-of-distances) |
+| [2714-left-and-right-sum-differences](https://github.com/iamayuu/LeetCode-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/iamayuu/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/iamayuu/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
