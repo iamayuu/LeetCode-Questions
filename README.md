@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/iamayuu/LeetCode-Questions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/iamayuu/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/iamayuu/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3964-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamayuu/LeetCode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/iamayuu/LeetCode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/3964-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
