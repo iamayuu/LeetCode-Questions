@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/iamayuu/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/iamayuu/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamayuu/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/iamayuu/LeetCode-Questions/tree/master/1861-rotating-the-box) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/iamayuu/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/iamayuu/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamayuu/LeetCode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/iamayuu/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamayuu/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/iamayuu/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamayuu/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/iamayuu/LeetCode-Questions/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/iamayuu/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/iamayuu/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/iamayuu/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/iamayuu/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/iamayuu/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
