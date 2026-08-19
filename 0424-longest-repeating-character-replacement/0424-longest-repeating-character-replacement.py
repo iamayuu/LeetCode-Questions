@@ -12,7 +12,6 @@ class Solution:
             while ((r-l+1)-maxFreq) > k:
                 hmap[s[l]]-=1
                 l+=1
-                maxFreq = max(hmap.values())
 
             res = max(res, r-l+1)
         
