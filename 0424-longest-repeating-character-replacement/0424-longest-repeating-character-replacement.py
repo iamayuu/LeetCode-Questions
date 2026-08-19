@@ -1,18 +1,19 @@
 from collections import defaultdict
-
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        freqs = defaultdict(int)
+        hmap = defaultdict(int)
+        n = len(s)
+        l = 0
         res = 0
-        i = 0
+        for r in range(n):
+            hmap[s[r]]+=1
+            maxFreq = max(hmap.values())
 
-        for j in range(len(s)):
-            freqs[s[j]] += 1
-            maxFreq = max(freqs.values())
-            curLen = j - i + 1
-            if curLen - maxFreq > k:
-                freqs[s[i]] -= 1
-                i += 1
-            res = max(res, j - i + 1)
+            while ((r-l+1)-maxFreq) > k:
+                hmap[s[l]]-=1
+                l+=1
+                maxFreq = max(hmap.values())
+
+            res = max(res, r-l+1)
         
         return res
