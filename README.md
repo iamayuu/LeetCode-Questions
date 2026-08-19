@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/iamayuu/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/iamayuu/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/iamayuu/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/iamayuu/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/iamayuu/LeetCode-Questions/tree/master/1345-jump-game-iv) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iamayuu/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/iamayuu/LeetCode-Questions/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/iamayuu/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamayuu/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/iamayuu/LeetCode-Questions/tree/master/2540-minimum-common-value) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/iamayuu/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/iamayuu/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/iamayuu/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamayuu/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/iamayuu/LeetCode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/iamayuu/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamayuu/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/iamayuu/LeetCode-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1895-largest-magic-square](https://github.com/iamayuu/LeetCode-Questions/tree/master/1895-largest-magic-square) |
