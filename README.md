@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamayuu/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/iamayuu/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/iamayuu/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/iamayuu/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/iamayuu/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/iamayuu/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamayuu/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/iamayuu/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/iamayuu/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/iamayuu/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/iamayuu/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamayuu/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iamayuu/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/iamayuu/LeetCode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/iamayuu/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/iamayuu/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/iamayuu/LeetCode-Questions/tree/master/0796-rotate-string) |
